@@ -1,2 +1,2 @@
 # freeRTOS-hw
-Hello world application for free RTOS with STM32F407G-DISC1 Discovery board
+Hello world application for freeRTOS with STM32F407G-DISC1 Discovery board
